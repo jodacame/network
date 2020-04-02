@@ -3,8 +3,8 @@ List for don't forget my sites and works
 
 ## Tools and miscellaneous
 
-**Alimentos Ricos**
-https://www.alimentosricos.co/
+**Información Nutricional**
+https://nutricional.info/
 
 **Dólar en Colombia**
 https://www.dolarcolombia.co/
@@ -18,78 +18,30 @@ https://letrasenespañol.com/
 **Codepen Repository**
 https://www.codeseek.co/
 
-**Láminas Mundial**
-https://www.laminasmundial.com/
-
-**Icon Builder**
-http://www.iconseek.co/
-
 **Seo Analyzer**
 https://www.prorank.co/
-
-**Your Profile Review**
-https://www.yourprofile.review/
 
 **ApiSeeds**
 https://apiseeds.com/
 
-**PWAs Directory**
-https://www.webas.co/
-
-**Libros Recomendados**
-https://librosrecomendados.co
+**isOpen**
+https://isopen.net/
 
 **Currency Converter**
 https://converter.cryptomining.review/
+
 **Help Desk**
 http://support.jodacame.com
 
-## Business Directory
+## Business Directory LATAM
 
-**Mexico**
-https://www.amarillasmexico.mx/
+https://eldirectorio.co/
 
-**Argentina**
-https://www.amarillasargentina.co/
+## Github Repositories
 
-**Colombia**
-https://www.eldirectorio.co/
-
-**El Salvador**
-http://sv.eldirectorio.co/
-
-**Panama**
-http://pa.eldirectorio.co/
-
-**Republica Dominicana**
-https://www.amarillasdominicana.com/
-
-**Bolivia**
-http://bo.eldirectorio.co/
-
-**Costa Rica**
-http://cr.eldirectorio.co/
-
-**Guatemala**
-http://gt.eldirectorio.co/
-
-**Peru**
-https://www.laguiaperu.com/
-
-**Uruguay**
-http://uy.eldirectorio.co/
-
-**Chile**
-https://www.lasamarillaschile.com/
-
-**Venezuela**
-https://www.laguiavenezuela.com/
-
+https://github.com/jodacame?tab=repositories
 
 ## Android 
-
-**Directorio Telefónico**
-https://play.google.com/store/apps/details?id=co.eldirectorio.app
 
 **Precio del Dólar en Colombia**
 https://play.google.com/store/apps/details?id=co.dolarcolombia.app
@@ -117,33 +69,6 @@ https://www.alfa.srolatino-servers.com/
 ## NPM Packages
 [Profile](https://www.npmjs.com/~jodacame)
 
-
-
-**GMeta**
-
-A ridiculously lightweight metadata extractor for the given url
-
-https://www.npmjs.com/package/gmeta
-
-**[PM2](https://github.com/Unitech/pm2)
-mongodb stast**
-
-PM2 MongoDB Stats Metrics
-
-https://www.npmjs.com/package/pm2-mongodb-stats
-
-**Apiseeds Lyrics**
-
-Is a simple module that provides lyrics from https://apiseeds.com/ directly into your js file in JSON format.
-
-https://www.npmjs.com/package/apiseeds-lyrics
-
-**Exchange Rate**
-
-Is a simple module that provides exchange rates from https://apiseeds.com/ directly into your js file in JSON format.
-
-https://www.npmjs.com/package/apiseeds-exchange-rate
-
 ## Chrome Extension
 
 **Dólar Colombia**
@@ -167,14 +92,10 @@ https://chrome.google.com/webstore/detail/envato-notifications-sale/helmefkledpm
 **Search phrases related in Google**
 https://chrome.google.com/webstore/detail/search-phrases-related-in/eklpkhjmgcepjljfmpmdaeicgoemojjb
 
-## Deprecated / Deserted
-
-**Linux Juegos**
-https://web.archive.org/web/20120808132842/http://linux-juegos.com:80/
+## Deprecated / Deserted (Never Will Forget)
 
 **MegaJC** 
-https://launchpad.net/megajc
-https://megajc.softonic.com/linux
+https://sourceforge.net/projects/megajc/
 
 **X-Bot**
 https://www.gambas-es.org/viewtopic.php?f=5&t=271&highlight=xbot
@@ -190,9 +111,6 @@ http://web.archive.org/web/20160316130716/https://www.nexxuz.com/
 
 **Wordpress Plugins**
 https://wordpress.org/plugins/search/jodacame/
-
-
-
 
 
 
